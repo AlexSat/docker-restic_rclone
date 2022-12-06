@@ -1,6 +1,5 @@
 # Docker Restic_Rclone
-Forked from [jasonccox/restic-rclone-docker](https://github.com/jasonccox/restic-rclone-docker) \
-Available on Docker hub as [niniyas/restic-rclone](https://hub.docker.com/r/niniyas/restic-rclone).
+Forked from [NiNiyas/docker-restic_rclone](https://github.com/NiNiyas/docker-restic_rclone)
 
 ## Features
 - Support for PUID and PGID variables.
